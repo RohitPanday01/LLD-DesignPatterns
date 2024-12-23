@@ -1,6 +1,10 @@
-*.o
-*.a
+*.com
+*.class
+*.dll
+*.exe
 *.vscode
-*.DS_store
-*.Index
-
+*.o
+*.so
+.DS_Store
+.DS_Store?
+._*
